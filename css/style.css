@@ -110,6 +110,8 @@ li {
 
 button.ref {
   color: white;
+  vertical-align: baseline;
+    background: transparent;
 }
 
 button.ref:hover {
